@@ -12,4 +12,4 @@ You need to do the following</br>
 7. Rebuild the project.
 
 ## Preview
-<img src=https://github.com/RainkLH/Face_Detection_AForge-DlibDotNet/blob/master/Preview.gif?raw=true/>
+<img src=https://github.com/RainkLH/Face_Detection_AForge-DlibDotNet/blob/master/Preview.gif?/>
