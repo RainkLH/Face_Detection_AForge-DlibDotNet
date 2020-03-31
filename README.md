@@ -10,3 +10,6 @@ You need to do the following</br>
 5. Copy all DLL files in the [Dilb.Net.DLL\] directory to the generated directory (. The directory where the EXE file is located)
 6. Copy [face_data] folder to the generated directory (. The directory where the EXE file is located)
 7. Rebuild the project.
+
+## Preview
+<img src=https://raw.githubusercontent.com/RainkLH/Face_Detection_AForge-DlibDotNet/master/Preview.gif/>
